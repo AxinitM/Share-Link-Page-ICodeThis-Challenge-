@@ -3,15 +3,13 @@
 This is a solution to a challenge "Share Link" from the website [ICodeThis](https://icodethis.com/modes/design-to-code/771/submissions).
 
 ## Table of contents
-- [Share Link Page / ICodeThis Challenge](#share-link-page--icodethis-challenge)
-  - [Table of contents](#table-of-contents)
-  - [Task](#task)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [How it works](#how-it-works)
-    - [Features / Functional Overview](#features--functional-overview)
-  - [Built with](#built-with)
-  - [Author](#author)
+- [Task](#task)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [How it works](#how-it-works)
+  - [Features / Functional Overview](#features--functional-overview)
+- [Built with](#built-with)
+- [Author](#author)
 
 ## Task
 Start with this design and transform it into a functional project using HTML, CSS, and JS.
